@@ -1,2 +1,2 @@
-# Sesion2_projcet
+# Secion2_projcet
 Movie recommandation system
