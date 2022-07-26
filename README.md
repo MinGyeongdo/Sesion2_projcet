@@ -1,2 +1,2 @@
-# Secion2_projcet
-Movie recommandation system
+# Secion2_project
+Movie gross prediction model
